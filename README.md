@@ -151,7 +151,7 @@ Reach out to me at one of the following places!
 ---
 
 ## Donations
- [![INSERT YOUR GRAPHIC HERE](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+ [![INSERT YOUR GRAPHIC HERE](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carlduncan)
  
 
 
