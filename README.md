@@ -38,7 +38,7 @@ $ flutter run
 ---
 
 ## Features
- [![INSERT YOUR GRAPHIC HERE](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/title.gif?alt=media&token=bb652fef-a3ed-437d-8ea9-5b8d55e3a8e9)]()
+ [![INSERT YOUR GRAPHIC HERE](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/Love%20is%20Blue%20(2).png?alt=media&token=e03b2d40-3fb4-4e1b-ae46-e11f4cb3d2e0)](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/Love%20is%20Blue%20(2).png?alt=media&token=e03b2d40-3fb4-4e1b-ae46-e11f4cb3d2e0)
 
 - AmorBlue uses custom Java Platform code to detect devices nearby and calculates the distance based off the Received Signal Strength Indicator(RSSI)  and the Transmission Power (TX Power).
 
