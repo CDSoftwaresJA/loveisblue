@@ -30,6 +30,7 @@
 $ git clone https://github.com/CDSoftwaresJA/loveisblue.git
 $ flutter clean
 $ flutter pub get
+$ flutter run
 ```
 - Add your Google Play Services JSON
 - Add your Google Maps API key
