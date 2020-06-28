@@ -19,11 +19,7 @@
 
 ---
 ### Introduction
-Recyclopedia is a vintage inspired digital platform that aims to save the planet from the pollution which is the major threat to the functioning of earth. Through this platform, **we are creating an energetic community that aims to combat the world from pollution**. The key features of our platform are,
 
-1) The platform allows its users to engage in events related to preventing pollution in the world. Events like beach clean up, community gathering, and workshops are notified under the events section.
-2) The users are allowed to donate to our body, to help us host events.
-3) A gamification system is incorporated n the system to encourage the participation of the user in our platform. The users will get a tokens of appreciation related to their hierarchy in the levels of contribution.
 ---
 ### Setup
 
