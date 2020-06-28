@@ -1,6 +1,6 @@
  # Love is Blue - Flutter Hackathon 2020
 
- [![INSERT YOUR GRAPHIC HERE](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/title.gif?alt=media&token=bb652fef-a3ed-437d-8ea9-5b8d55e3a8e9)]()
+ [![INSERT YOUR GRAPHIC HERE](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/title.gif?alt=media&token=bb652fef-a3ed-437d-8ea9-5b8d55e3a8e9)](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/title.gif?alt=media&token=bb652fef-a3ed-437d-8ea9-5b8d55e3a8e9)
 
 | Community | Messages | Profile |Alert | Profile Detailed | Community-Members | Map-View  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
