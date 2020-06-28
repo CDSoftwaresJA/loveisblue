@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "791441081550",
+    "firebase_url": "https://amorblue-9d28f.firebaseio.com",
+    "project_id": "amorblue-9d28f",
+    "storage_bucket": "amorblue-9d28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791441081550:android:2984a43439ed8a930bbc9f",
+        "android_client_info": {
+          "package_name": "com.example.amorblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791441081550-1q7ie4siurusqebi6siscklfp3qvfdgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amorblue",
+            "certificate_hash": "6a95a7414f618696419952a04e1cb4df455e8fcc"
+          }
+        },
+        {
+          "client_id": "791441081550-grnbg78o90688usek9jvi8akgueonc5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlb-8W3kKmWw45SK8F_tZpc5Tq_K9DiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791441081550-grnbg78o90688usek9jvi8akgueonc5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791441081550-ufvo349or18rc26hn7vudhlpedbdtf35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amorblue"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791441081550:android:0e43dfbe68e2f53e0bbc9f",
+        "android_client_info": {
+          "package_name": "com.example.loveisblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791441081550-grnbg78o90688usek9jvi8akgueonc5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlb-8W3kKmWw45SK8F_tZpc5Tq_K9DiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791441081550-grnbg78o90688usek9jvi8akgueonc5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791441081550-ufvo349or18rc26hn7vudhlpedbdtf35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amorblue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
