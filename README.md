@@ -127,7 +127,7 @@ public  class BleHandler implements EventChannel.StreamHandler {
 
 | **Carl Duncan** | **Juliet Duncan** |
 | :---: |:---:|
-|[![Carl Duncan](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![Juliet Duncan](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a 
+|[![Carl Duncan](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://play.google.com/store/apps/developer?id=Carl+Duncan)    | [![Juliet Duncan](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://www.etsy.com/shop/JCEpiphany?ref=simple-shop-header-name&listing_id=749988199) | | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a 
 | Software Developer | Business Lead |
 ---
 
