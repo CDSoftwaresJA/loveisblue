@@ -135,8 +135,26 @@ public  class BleHandler implements EventChannel.StreamHandler {
 
 ## FAQ
 
-- **How do I do *specifically* so and so?**
+ **How do I do *specifically* so and so?**
     - No problem! Just do this.
+- **How accurate is the distance?**
+    - The distance is a close approximation and the accuracy can be increased by configuring the sensitivity
+
+- **What are the difference applications of Love is Blue?**
+  - 1. Personal Use – track your daily social distancing progress.
+    2. Family Use – Monitor social distancing within customized family and friends communities. Allow members to send preset alerts in various forms; audio, texts or links. 
+    3. Business Use – Create a community for staffing. Allows managers to send preset message in various forms; audio, texts or links to help maintain social distancing
+    4. Business Manager tool – conveniently monitor social distancing in the workplace. Track offenders and allow for adjustments to workflows and positions to improve distance guidelines.
+
+- **Can it work on any smart phone?**
+    - Love is Blue works on most of smart phone devices. To check compatibility     use  https://play.google.com/store/apps/details?id=com.myan.michaelyanyoga.   bluetoothchecker&hl=en
+
+
+- **Does it have to be installed on both phones to work**
+    - for LIB social distance detecting only has to be installed on one phone however for the bluetooth messaging to work, LIB  needs to be installed on both devices
+
+- **Can it work in the background?** 
+    -LIB works in the background
 
 ---
 
