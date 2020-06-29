@@ -152,8 +152,8 @@ public  class BleHandler implements EventChannel.StreamHandler {
     - For LIB social distance detecting, it only has to be installed on one phone; However for the bluetooth messaging to work, LIB  needs to be installed on both devices.
 
 - **Can LIB work in the background?** 
-    - LIB works in the background so you can easily manage your social distancing
-
+    - LIB works in the background.
+    
 ---
 
 ## Support
