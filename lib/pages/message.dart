@@ -1,6 +1,4 @@
-import 'dart:io';
 
-import 'package:loveisblue/widgets/button2.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -21,22 +19,30 @@ class _MessageSetState extends State<MessageSet> {
           border: null,
           middle: Text("Set Message"),
           trailing: Material(
-              color: Colors.black,
+              color: Colors.white,
               child: InkWell(
                 child: Icon(Icons.check),
                 onTap: () {
                       Firestore.instance.collection('users').document(id).setData({"message":controller.text,"type":_pickingType},merge: true);
+                      Navigator.pop(context);
                 },
               )),
         ),
         child: CustomScrollView(
           slivers: [
+             SliverList(
+                delegate: SliverChildListDelegate.fixed([
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.12,
+              ),
+            ])),
             SliverList(
                 delegate: SliverChildListDelegate.fixed([
               Material(
                   child: TextField(
+                    textInputAction: TextInputAction.done,
                     controller: controller,
-                maxLines: 20,
+                maxLines: 3,
               )),
               SizedBox(
                 height: 20,
@@ -57,10 +63,6 @@ class _MessageSetState extends State<MessageSet> {
                       new DropdownMenuItem(
                         child: new Text('Image'),
                         value: "image",
-                      ),
-                      new DropdownMenuItem(
-                        child: new Text('Script'),
-                        value: "script",
                       ),
                       new DropdownMenuItem(
                         child: new Text('Link'),

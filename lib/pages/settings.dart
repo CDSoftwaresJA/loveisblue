@@ -1,4 +1,5 @@
 import 'package:loveisblue/navigator.dart';
+import 'package:loveisblue/pages/message.dart';
 import 'package:loveisblue/pages/splash.dart';
 import 'package:loveisblue/providers/seekchange.dart';
 import 'package:loveisblue/utils/btcontrol.dart';
@@ -75,6 +76,17 @@ class _SettingsState extends State<Settings> {
                 subtitle: "Disables BLE broadcasting",
                 onPressed: () {
                   btControl.disableBeacon();
+                },
+              ),
+              TileNormal(
+                icon: Icons.message,
+                title: "Set Message",
+                subtitle: "Set the message to send",
+                onPressed: () {
+                  Navigator.push(
+                    Nav.context,
+                    CupertinoPageRoute(builder: (context) => MessageSet()),
+                  );
                 },
               ),
               SeekBar(),
