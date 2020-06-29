@@ -1,4 +1,4 @@
- # Love is Blue - Flutter Hackathon 2020
+ # Love is Blue(LIB) - Flutter Hackathon 2020
 
  [![INSERT YOUR GRAPHIC HERE](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/Copy%20of%20Love%20is%20Blue.gif?alt=media&token=ee456ff0-1f34-45dc-8051-1b5e55d8c58c)](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/Copy%20of%20Love%20is%20Blue.gif?alt=media&token=ee456ff0-1f34-45dc-8051-1b5e55d8c58c)
 
@@ -134,13 +134,10 @@ public  class BleHandler implements EventChannel.StreamHandler {
 ---
 
 ## FAQ
-
- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
 - **How accurate is the distance?**
     - The distance is a close approximation. The accuracy can be increased by configuring the sensitivity
 
-- **What are the different applications of Love is Blue?**
+- **What are the different applications of LIB?**
   - 1. Personal Use – track your daily social distancing progress.
     2. Family Use – Monitor social distancing within customized family and friends communities. Allow members to send preset alerts in various forms; audio, texts or links. 
     3. Business Use – Create a community for staffing. Allows managers to send preset message in various forms; audio, texts or links to help maintain social distancing
