@@ -20,6 +20,8 @@
 ---
 ### Introduction
 
+We are living in a world where our “new normal” has shifted from being carefree and unaware of others around us to being acutely aware of our surroundings to ensure health, safety and well-being for our fellow man. From these emerging routines and norms, we have developed a social distancing network called Love is Blue.
+
 ---
 ### Setup
 
