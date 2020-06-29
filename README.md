@@ -11,7 +11,7 @@
 - [Introduction](#introduction)
 - [Setup](#setup)
 - [Features](#features)
-- [Usage](#Usage)
+- [Links](#links)
 - [Team](#team)
 - [FAQ](#faq)
 - [License](#license)
@@ -54,8 +54,12 @@ $ flutter run
 
 - Each Device that has AmorBlue turned on displays a unique ID that is based off the bluetooth mac address of the device which is obtained using flutter_bluetooth_serial,padded by 8 zeros and encrypted using Salsa20 encryption which is done with the encrypt plugin, This ID is broadcasted using the beacon_broadcast plugin
 
-## Usage 
-- Please click here
+## Links 
+- Please click this link [here](https://www.youtube.com/watch?v=fu85XpZWydI&feature=youtu.be) to watch the pitch.
+- Please click this link [here](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/loveisblue.apk?alt=media&token=571413fa-a568-4c63-a065-49a1f5071105) to download.
+- Please click this link [here](https://www.youtube.com/watch?v=Duegs2A3pzM) to watch the social distance report demo.
+- Please click this link [here](https://www.youtube.com/watch?v=yLqMJTuOzss&feature=youtu.be) to watch the social distance notifications demo.
+
 
 ---
 ## Core Functions and Snippets
