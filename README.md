@@ -127,16 +127,6 @@ public  class BleHandler implements EventChannel.StreamHandler {
 ```
 ---
 
-
-## Team
-
-
-| **Carl Duncan** | **Juliet Duncan** |
-| :---: |:---:|
-|[![Carl Duncan](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/me.jpg?alt=media&token=ff71f7a7-99ae-4f2d-91ab-2d9479342a0c)](https://play.google.com/store/apps/developer?id=Carl+Duncan)    | [![Juliet Duncan](https://firebasestorage.googleapis.com/v0/b/amorblue-9d28f.appspot.com/o/mom.jpg?alt=media&token=769086b2-9e13-4727-b714-a31e994ea048)](https://www.etsy.com/shop/JCEpiphany?ref=simple-shop-header-name&listing_id=749988199) | | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a 
-| Software Developer | Project Manager |
----
-
 ## FAQ
 - **How accurate is the distance?**
     - The distance is a close approximation. The accuracy can be increased by configuring the sensitivity
